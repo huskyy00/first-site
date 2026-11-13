@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+.reyting th,
+.reyting td {
+    background-color: #e29494;
+    padding: 12px;
+}
+table.number {
+    border: 5px solid #56a3c2;
+}
+.number th,
+.number td {
+    border: 5px solid #56a3c2;
+    padding: 10px;
+}
+.par {
+    padding: 12px;
+}
+.sds {
+    width: 300px;
+    background-color: rgb(126, 189, 197);
+}
+.dym {
+    width: 155px;
+    background-color: rgb(159, 124, 190);
+}
+.red {
+    width: 125px;
+    background-color: #8d4141;
+}
+.flip_vert {
+    transform: scaleY(-1);
+}
